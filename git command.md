@@ -8,3 +8,9 @@ git init
 git init <directory>
 ```
 
+
+
+```bash
+git add .
+```
+
