@@ -12,5 +12,6 @@ git init <directory>
 
 ```bash
 git add .
+git commit -m 'comment'
 ```
 
